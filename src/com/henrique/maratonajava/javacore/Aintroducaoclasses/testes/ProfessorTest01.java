@@ -1,5 +1,5 @@
-package com.henrique.maratonajava.javacore.introducaoclasses.testes;
-import com.henrique.maratonajava.javacore.introducaoclasses.dominio.Professor;
+package com.henrique.maratonajava.javacore.Aintroducaoclasses.testes;
+import com.henrique.maratonajava.javacore.Aintroducaoclasses.dominio.Professor;
 
 public class ProfessorTest01 {
     public static void main(String[] args) {
