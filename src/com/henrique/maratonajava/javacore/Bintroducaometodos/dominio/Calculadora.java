@@ -16,4 +16,13 @@ public class Calculadora {
       }
       return a/b;
     }
+
+    public void somaVarARGS(int... numeros){
+        int soma = 0;
+        for (int numero : numeros) {
+            soma += numero;
+        }
+        System.out.println(soma);
+    }
+
 }
