@@ -7,6 +7,11 @@ public class Jogador {
     public Jogador(String nome) {
         this.nome = nome;
         
+        
+    }
+    public Jogador(String nome, Time time) {
+        this.nome = nome;
+        this.time = time;
     }
 
     
